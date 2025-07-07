@@ -2,17 +2,6 @@
 
 This class is broken down into 3 main sections and 12 projects
 [project1](#project1.0)
-[project1](#project2.0)
-[project1](#project3.0)
-[project1](#project4.0)
-[project1](#project5.0)
-[project1](#project6.0)
-[project1](#project7.0)
-[project1](#project8.0)
-[project1](#project9.0)
-[project1](#project10.0)
-[project1](#project11.0)
-[project1](#project12.0)
 
 ## project1.0
 ``` c++
@@ -75,7 +64,7 @@ void loop()
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project2.0](https://app.arduino.cc/sketches/b0de1489-0867-4bd1-b4a1-cfca8649d76b?view-mode=preview)
 ---
 ## project 2.5
 
@@ -102,7 +91,7 @@ void loop()
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project2.5](https://app.arduino.cc/sketches/0f698bb6-75da-4702-86f1-a8430bf7b435?view-mode=preview)
 ---
 ## project 3.0
 
@@ -134,7 +123,7 @@ void loop()
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project3.0](https://app.arduino.cc/sketches/54b04d9f-82aa-46d3-b15d-448784f67318?view-mode=preview)
 ---
 ## project 3.1
 
@@ -163,7 +152,7 @@ void loop()
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project3.1](https://app.arduino.cc/sketches/0120f094-b7d9-471a-aadb-d6dc39482aac?view-mode=preview)
 ---
 ## project 4.0
 
@@ -184,7 +173,7 @@ void loop() {
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project4.0](https://app.arduino.cc/sketches/91dff40c-372b-4b94-b348-c11c2ea8f09f?view-mode=preview)
 ---
 ## project 4.5
 
@@ -209,7 +198,7 @@ void loop() {
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project4.5](https://app.arduino.cc/sketches/b8b69f3e-878e-4c85-b6e0-6cc71db1c044?view-mode=preview)
 ---
 ## project 5.0
 
@@ -268,7 +257,7 @@ void setColor(int redVal, int blueVal, int greenVal){
   analogWrite(BLUE_PIN, greenVal);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project5.0](https://app.arduino.cc/sketches/6da6be60-79be-4284-b99f-5955bcda98be?view-mode=preview)
 ---
 ## project 5.1
 
@@ -330,7 +319,7 @@ void setColor(int redVal, int blueVal, int greenVal){
   analogWrite(BLUE_PIN, greenVal);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project5.1](https://app.arduino.cc/sketches/987afc2c-8770-4a6d-881c-0059b7d50bb9?view-mode=preview)
 ---
 ## project 5.5
 
@@ -374,7 +363,7 @@ void setColor(int redVal, int blueVal, int greenVal){
   analogWrite(BLUE_PIN, greenVal);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project5.5](https://app.arduino.cc/sketches/74e79784-24e8-45dd-8075-5a5711a677e0?view-mode=preview)
 ---
 ## project 6.0
 
@@ -415,7 +404,7 @@ void setColor(int redVal, int blueVal, int greenVal){
   analogWrite(BLUE_PIN, greenVal);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project6.0](https://app.arduino.cc/sketches/1b038c1b-4544-4c0b-b402-f61e18dc1cfb?view-mode=preview)
 ---
 ## project 7.0
 
@@ -438,7 +427,7 @@ void loop() {
   delay(200);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project7.0](https://app.arduino.cc/sketches/88f3fb7c-f896-4773-94a6-294268227f72?view-mode=preview)
 ---
 ## project 7.5
 
@@ -465,7 +454,7 @@ void loop() {
   delay(200);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project7.5](https://app.arduino.cc/sketches/444a0d62-5548-4742-8dfe-7fc8bb3199ed?view-mode=preview)
 ---
 ## project 8.0
 
@@ -519,7 +508,7 @@ void loop() {
   Serial.println(" *F");
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project8.0](https://app.arduino.cc/sketches/06a303ba-f334-4f3b-936a-d37d9108eaf5?view-mode=preview)
 ---
 ## project 8.5
 
@@ -583,7 +572,7 @@ void loop() {
   }
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project8.5](https://app.arduino.cc/sketches/dd1f926c-81dc-432c-bad6-105db2caf740?view-mode=preview)
 ---
 ## project 9.0
 
@@ -611,7 +600,7 @@ void loop() {
   delay(100);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project9.0](https://app.arduino.cc/sketches/73ef0ff6-8956-4c4b-9781-1cc01828bad8?view-mode=preview)
 ---
 ## project 9.5
 
@@ -694,7 +683,7 @@ void make_guess(int guess, int secret){
   }
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project9.5](https://app.arduino.cc/sketches/e491c6a9-b417-415c-b104-eb49735d2a62?view-mode=preview)
 ---
 ## project 10.0
 
@@ -726,7 +715,7 @@ void loop() {
   delay(200);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project10.0](https://app.arduino.cc/sketches/fd91fabf-fa7d-4643-a66f-350b3cc04814?view-mode=preview)
 ---
 ## project 10.1
 
@@ -759,7 +748,7 @@ void loop() {
   delay(200);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project10.1](https://app.arduino.cc/sketches/3859987e-4f95-437d-9a32-f4b84c550665?view-mode=preview)
 ---
 ## project 10.5
 
@@ -804,7 +793,7 @@ void loop() {
   delay(200);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project10.5](https://app.arduino.cc/sketches/c5c717d5-394a-41f7-b10f-62c58a109b69?view-mode=preview)
 ---
 ## project 11.0
 
@@ -832,7 +821,7 @@ void loop() {
  delay(1000);
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project11.0](https://app.arduino.cc/sketches/930c171f-0f30-4730-a5f1-4b6a3cc0d8aa?view-mode=preview)
 ---
 ## project 11.5
 
@@ -887,7 +876,7 @@ void loop() {
   //delay(2000); 
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project11.5](https://app.arduino.cc/sketches/a3058484-2196-44ce-98e0-cd5ebefde220?view-mode=preview)
 ---
 ## project 12.0
 
@@ -911,7 +900,7 @@ void loop() {
     sevseg.refreshDisplay(); // Must run repeatedly
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project12.0](https://app.arduino.cc/sketches/e6e967c2-9c13-41d0-aad3-81159db62c3f?view-mode=preview)
 ---
 ## project 12.5
 
@@ -940,11 +929,5 @@ void loop() {
     sevseg.refreshDisplay(); // Must run repeatedly
 }
 ```
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
----
-
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
----
-
-#### [project1.5](https://app.arduino.cc/sketches/f3773fd6-cd04-41d1-b560-3860581bcb4f?view-mode=preview)
+#### [project12.5](https://app.arduino.cc/sketches/0878506c-00d1-4f80-b455-efbc69c1bc7e?view-mode=preview)
 ---
