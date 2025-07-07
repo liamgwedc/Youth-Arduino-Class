@@ -1,8 +1,20 @@
 ## Youth Arduino Coding
 
 This class is broken down into 3 main sections and 12 projects
+[project1](#project1.0)
+[project1](#project2.0)
+[project1](#project3.0)
+[project1](#project4.0)
+[project1](#project5.0)
+[project1](#project6.0)
+[project1](#project7.0)
+[project1](#project8.0)
+[project1](#project9.0)
+[project1](#project10.0)
+[project1](#project11.0)
+[project1](#project12.0)
 
-## project1
+## project1.0
 ``` c++
 void setup()
 {
