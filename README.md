@@ -23,8 +23,7 @@ void loop()
 ---
 ## project 1.5
 
-![project1.5](Arduino-Code/project1.5/arduino_led_circuit.png)
-![]()
+![Blink LED](<Arduino Diagrams/1.5-Blinking LED_bb.png>)
 
 ``` c++
 #define LED_PIN 12
@@ -46,7 +45,7 @@ void loop()
 ---
 ## project 2.0
 
-![]()
+![Push Button](<Arduino Diagrams/2-Push-Button_bb.png>)
 
 ``` c++
 #define BUTTON_PIN 4
@@ -95,7 +94,7 @@ void loop()
 ---
 ## project 3.0
 
-![]()
+![Push Button With LED](<Arduino Diagrams/3-LED-Button_bb.png>)
 
 ``` c++
 #define BUTTON_PIN 4
@@ -156,7 +155,7 @@ void loop()
 ---
 ## project 4.0
 
-![]()
+![Potentiometer](<Arduino Diagrams/4-Analog-NO-LED_bb.png>)
 
 ``` c++
 #define POTENTIOMETER_PIN A1
@@ -177,7 +176,7 @@ void loop() {
 ---
 ## project 4.5
 
-![]()
+![Potentiometer With LED](<Arduino Diagrams/4.5-Analog-LED_bb.png>)
 
 ``` c++
 #define POTENTIOMETER_PIN A2
@@ -202,8 +201,7 @@ void loop() {
 ---
 ## project 5.0
 
-![]()
-![]()
+![RGB LED](<Arduino Diagrams/5-RGB-LED_bb.png>)
 
 ``` c++
 #define RED_PIN 11
@@ -323,7 +321,7 @@ void setColor(int redVal, int blueVal, int greenVal){
 ---
 ## project 5.5
 
-![]()
+![RGB LED Potentiometer](<Arduino Diagrams/5.5-RGB-LED pot_bb.png>)
 
 ``` c++
 #define POTENTIOMETER_PIN A1
@@ -367,7 +365,7 @@ void setColor(int redVal, int blueVal, int greenVal){
 ---
 ## project 6.0
 
-![]()
+![RGB LED Joystick](<Arduino Diagrams/6-RGB-LED Joy_bb.png>)
 
 ``` c++
 #define JSX_PIN  A0
@@ -408,7 +406,7 @@ void setColor(int redVal, int blueVal, int greenVal){
 ---
 ## project 7.0
 
-![]()
+![Photoresistor](<Arduino Diagrams/7-photoresistor_bb.png>)
 
 ``` c++
 #define P_RESISTOR A1
@@ -430,8 +428,6 @@ void loop() {
 #### [project7.0](https://app.arduino.cc/sketches/88f3fb7c-f896-4773-94a6-294268227f72?view-mode=preview)
 ---
 ## project 7.5
-
-![]()
 
 ``` c++
 #define P_RESISTOR A1
@@ -458,7 +454,7 @@ void loop() {
 ---
 ## project 8.0
 
-![]()
+![T&H Sensor](<Arduino Diagrams/8-T&H sensor_bb.png>)
 
 ``` c++
 #include <DHT.h>
@@ -512,7 +508,7 @@ void loop() {
 ---
 ## project 8.5
 
-![]()
+![T&H with LED](<Arduino Diagrams/8.5-T&H sensor LED_bb.png>)
 
 ``` c++
 #include <DHT.h>
@@ -575,8 +571,6 @@ void loop() {
 #### [project8.5](https://app.arduino.cc/sketches/dd1f926c-81dc-432c-bad6-105db2caf740?view-mode=preview)
 ---
 ## project 9.0
-
-![]()
 
 ``` c++
 #include <IRremote.h>
@@ -687,6 +681,8 @@ void make_guess(int guess, int secret){
 ---
 ## project 10.0
 
+![Ultrasonic](<Arduino Diagrams/10 ultrasonic_bb.png>)
+
 ``` c++
 #define TRIG_PIN 10
 #define ECHO_PIN 11
@@ -752,6 +748,8 @@ void loop() {
 ---
 ## project 10.5
 
+![Ultrasonic with LED](<Arduino Diagrams/10.5 ultrasonic_bb.png>)
+
 ``` c++
 #define TRIG_PIN 10
 #define ECHO_PIN 11
@@ -797,6 +795,10 @@ void loop() {
 ---
 ## project 11.0
 
+![LCD 1](<Arduino Diagrams/11 LCD-part1.png>)
+![LCD 2](<Arduino Diagrams/11 LCD-part2.png>)
+![LCD 3](<Arduino Diagrams/11 LCD-part3.png>)
+
 ``` c++
 #include <LiquidCrystal.h> // includes the LiquidCrystal Library 
 LiquidCrystal lcd(2, 3, 4, 5, 6, 7); // Creates an LCD object. Parameters: (rs, enable, d4, d5, d6, d7) 
@@ -824,6 +826,8 @@ void loop() {
 #### [project11.0](https://app.arduino.cc/sketches/930c171f-0f30-4730-a5f1-4b6a3cc0d8aa?view-mode=preview)
 ---
 ## project 11.5
+
+![LCD with T&H](<Arduino Diagrams/11.5 LCD-DHT_bb.png>)
 
 ``` c++
 #include <DHT.h>
@@ -879,6 +883,10 @@ void loop() {
 #### [project11.5](https://app.arduino.cc/sketches/a3058484-2196-44ce-98e0-cd5ebefde220?view-mode=preview)
 ---
 ## project 12.0
+
+![Sev Seg 1](<Arduino Diagrams/12 4digit12pin__part1bb.png>)
+![Sev Seg 2](<Arduino Diagrams/12 4digit12pin_part2_bb.png>)
+![Sev Seg 3](<Arduino Diagrams/12 4digit12pin_bb.png>)
 
 ``` c++
 #include "SevSeg.h"
