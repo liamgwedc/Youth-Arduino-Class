@@ -824,6 +824,8 @@ void loop() {
 }
 ```
 #### [project11.0](https://app.arduino.cc/sketches/930c171f-0f30-4730-a5f1-4b6a3cc0d8aa?view-mode=preview)
+
+#### [bonus jumpman lcd game](https://projecthub.arduino.cc/crepeguy/jumpman-lcd-game-c9aea0)
 ---
 ## project 11.5
 
@@ -939,3 +941,10 @@ void loop() {
 ```
 #### [project12.5](https://app.arduino.cc/sketches/0878506c-00d1-4f80-b455-efbc69c1bc7e?view-mode=preview)
 ---
+
+### [extra 2.0](https://app.arduino.cc/sketches/4e2fb0a2-3814-45be-ab83-21a5e31ba9d3?view-mode=preview)
+### [extra 3.0](https://app.arduino.cc/sketches/1e2ecf59-ade5-4c1c-84b9-2a2a64833fe0?view-mode=preview)
+### [extra 4.0](https://app.arduino.cc/sketches/5a49b67e-e5cf-41d5-aaae-31e18becb93e?view-mode=preview)
+### [extra 5.0](https://app.arduino.cc/sketches/1c4b80ad-6b96-4cc0-a806-7761d388ac49?view-mode=preview)
+### [extra 7.0](https://app.arduino.cc/sketches/6150a64a-82ab-4bf7-ad3b-7ad3fa61ced5?view-mode=preview)
+### [extra 8.5](https://app.arduino.cc/sketches/430dfc56-78e3-4d95-9cde-99b2bbee2f7b?view-mode=preview)
